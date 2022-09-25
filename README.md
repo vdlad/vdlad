@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vdlad
-- 👀 I’m interested in ... AI and Robotics!
+- 👀 I’m interested in ... AI and ML Methods!
 - 🌱 I’m currently learning ... Many new things at MIT! 
 - 💞️ I’m looking to collaborate on ... Projects that benefit the world in some way!
 - 📫 How to reach me ... vedlad at mit (dot) edu!
