@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vdlad
-- 👀 I’m interested in ... AI and ML Methods!(technically ML is under the AI umbrella, yes, yes, i know)
-- 🌱 I’m currently learning ... Many new things at MIT! (oftentimes difficult)
-- 💞️ I’m looking to collaborate on ... Projects that benefit the world in some way! (isn't everyone?)
-- 📫 How to reach me ... vedang at mit (dot) edu! (spambots be gone)
+- 👀 I’m interested in ... contributing positively to the field of AI! 
+- 🌱 I’m currently learning ... exciting things at MIT!
+- 💞️ I’m looking to collaborate on ... with anyone and anything of interest!
+- 📫 How to reach me ... vedang at mit (dot) edu! 
 
 <!---
 vdlad/vdlad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
